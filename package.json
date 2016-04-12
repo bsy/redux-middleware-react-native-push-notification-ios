@@ -1,5 +1,5 @@
 {
-  "name": "redux-middleware-react-native-push-notfication-ios",
+  "name": "redux-middleware-react-native-push-notification-ios",
   "version": "0.0.1",
   "description": "Glue PushNotificationIOS from react-native to Redux.",
   "main": "lib/index.js",
@@ -44,6 +44,6 @@
     "redux": "^3.0.0 || ^2.0.0 || ^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
   },
   "bugs": {
-    "url": "https://github.com/michaelcontento/redux-middleware-push-notfication-ios/issues"
+    "url": "https://github.com/bsy/redux-middleware-push-notfication-ios/issues"
   }
 }
