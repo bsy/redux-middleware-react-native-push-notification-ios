@@ -36,7 +36,7 @@
     "eslint-plugin-mocha-only": "0.0.3"
   },
   "dependencies": {
-    "react-native": "0.21.0",
+    "react-native": "^0.25.1",
     "redux-actions": "^0.9.1",
     "redux-middleware-oneshot": "https://github.com/bsy/redux-middleware-oneshot.git"
   },
