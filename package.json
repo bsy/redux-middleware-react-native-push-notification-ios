@@ -1,6 +1,6 @@
 {
   "name": "redux-middleware-react-native-push-notification-ios",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Glue PushNotificationIOS from react-native to Redux.",
   "main": "lib/index.js",
   "scripts": {
@@ -36,7 +36,8 @@
     "eslint-plugin-mocha-only": "0.0.3"
   },
   "dependencies": {
-    "react-native": "^0.25.1",
+    "react": "^15.1.0",
+    "react-native": "^0.27.0",
     "redux-actions": "^0.9.1",
     "redux-middleware-oneshot": "https://github.com/bsy/redux-middleware-oneshot.git"
   },
